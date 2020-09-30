@@ -1,0 +1,7 @@
+{
+    "money": 0,
+    "health": 100,
+    "lastLevel": "level1",
+    "perks": [],
+    "lives": 1
+}

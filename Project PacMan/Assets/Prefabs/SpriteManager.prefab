@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4952723432634037166
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4952723432634037169}
+  - component: {fileID: 4952723432634037168}
+  m_Layer: 0
+  m_Name: SpriteManager
+  m_TagString: SpriteManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4952723432634037169
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4952723432634037166}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -25.68871, y: 28.034266, z: 32.71875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4952723432634037168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4952723432634037166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8943ab186b9e804c8a0e030372bbe18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  normalBackground: {fileID: 21300000, guid: 9eb4d6eaab0bb26419c3109be62ce983, type: 3}
+  villageBackground: {fileID: 21300000, guid: 00ff873226df87d418f16d938e330c13, type: 3}
+  SoliceBackground: {fileID: 21300000, guid: 3b1cf405fa5662c4fb8a56e1e863c7a3, type: 3}
+  Boss: {fileID: 21300000, guid: dfece4384e1d0254a8940d262319e294, type: 3}
+  minion: {fileID: 21300000, guid: 4b3249e647ccde74594660c7d86e9fd0, type: 3}
+  Gwyn: {fileID: 21300000, guid: 4204e3da47bebbd4a877abdd3d0565d8, type: 3}
+  Ceryz: {fileID: 21300000, guid: 023cace5d236e664da2941147e1f0e64, type: 3}
+  Fredalf: {fileID: 21300000, guid: 06c66bc058aa91440bc9a05feaea8eb9, type: 3}
+  arrow: {fileID: 21300000, guid: c06290836b4622646b9ed367185d514a, type: 3}
+  blank: {fileID: 21300000, guid: 5ca4395807d205241a723325a87d090c, type: 3}
+  XOAnim: {fileID: 9100000, guid: 422abc27cfeb703469842ff34697e8e0, type: 2}
+  SoldierAnim: {fileID: 9100000, guid: 814a62eb5fb2dc94da96a7803a8f057d, type: 2}

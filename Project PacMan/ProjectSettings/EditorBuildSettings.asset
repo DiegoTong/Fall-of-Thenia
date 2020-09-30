@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/BattleScenes/MainMenu.unity
+    guid: 615797e99ed430a4caf130e813527b4b
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/ScrollingBackground.unity
+    guid: 726b7918950389849890bf49950f2353
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_Intro.unity
+    guid: de8240e678e96b148a4005ed6aa6984b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_Afterscene.unity
+    guid: 486a2f4e2903e844d9bfaa6269581a13
+  - enabled: 1
+    path: Assets/_Scenes/BattleScenes/SampleScene.unity
+    guid: ab0b48aaa87d6184e89a36581beeea95
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Scenes/DeathScene.unity
+    guid: b01822fad06db514486a63b10bb85f09
+  - enabled: 1
+    path: Assets/_Scenes/BattleScenes/BattleScene.unity
+    guid: 7bc82ab4b60a38f4ca1e64e5e526eacb
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_BurningVillage.unity
+    guid: f95a76cdea986e44cb83fa18abdaad35
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_BurningVillage2.unity
+    guid: 0b39f297e0fbfc242b09d83dc006432e
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_BurningVillage3.unity
+    guid: a5686a9e11277514ebac5a9461d3d9a3
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_ForestEpilogue.unity
+    guid: 0f699f208a173a942b81615272858488
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_Fredalf.unity
+    guid: 9a5174dbabbca7749a57ea747f6d9f4c
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_FredalfTwo.unity
+    guid: 671e46d4a750ae44a97e2feea4578c58
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_OutskirtsofTolpos.unity
+    guid: e731664660659a1429868857186dc028
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_ReturnTORuma.unity
+    guid: 3d65d6611488a7047b2dee09843b6504
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_RumasDeath.unity
+    guid: 71e8334ea1403c34c8d5064e7ecad7ac
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_SoliseEpilogue.unity
+    guid: e8e17a6d5d711c04f8274ff016d98673
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_TalkingToGlennA.unity
+    guid: 7aabdc504f2c484409fe8757d4f95f0d
+  - enabled: 1
+    path: Assets/_Scenes/Cut Scenes/Forest/F_TalkingToGlennB.unity
+    guid: 0f94229a77a634a4e97b4486dcd38e96
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

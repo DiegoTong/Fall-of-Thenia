@@ -1,0 +1,1 @@
+"C:\Program Files\Unity\Editor\Unity.exe" -batchmode -projectPath "C:\JenkinsWorkspace\depot\Pacman\Project PacMan" -executeMethod BuildScript.PerformAllBuilds -quit -logFile ./jenkins/logs/Pacman/UnityBuildOutput

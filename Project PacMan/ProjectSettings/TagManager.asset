@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - EnemyUnit
+  - BattleUI
+  - healthBar
+  - HealthBarText
+  - Gwyn
+  - PotatoGirl
+  - StatsButton
+  - FedalfButton
+  - CeryzButton
+  - PlaceHolder
+  - FredalfButton
+  - StatsMenu
+  - PlayerPrefs
+  - STRTxt
+  - INTTxt
+  - DEFTxt
+  - AGITxt
+  - HPTxt
+  - MPTxt
+  - LVLTxt
+  - CharName
+  - Fredalf
+  - EnemySlider1
+  - EnemySlider2
+  - EnemySlider3
+  - ManaBar
+  - Ceryz
+  - TurnManager
+  - Boss
+  - BossSlider
+  - EnemyUnit2
+  - EnemyUnit3
+  - EnemyUnit1
+  - ManaText
+  - SpriteManager
+  - Background
+  - EnemyEncounter
+  - GoldText
+  - TimeText
+  - Selector
+  - TimeText2
+  - TimeText3
+  - LVLTxt2
+  - LVLTxt3
+  - HealthBarText2
+  - HealthBarText3
+  - MPTxt2
+  - MPTxt3
+  - Slider1
+  - Slider2
+  - Slider3
+  - CharacterPortrait
+  - PlayerInfo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1083726735
+    locked: 0
+  - name: Background
+    uniqueID: 523040841
+    locked: 0
+  - name: UI
+    uniqueID: 2139176363
+    locked: 0
